@@ -1,0 +1,14 @@
+img {
+	width:300px;
+	float: left;
+	margin: 2%;
+}
+
+h2 {
+	font-family: raleway;
+	margin: 2%;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid red;
+	width: 140px;
+}
