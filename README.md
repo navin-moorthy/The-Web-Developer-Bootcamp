@@ -6,7 +6,7 @@
 
 **Section - Topic**
 
-1. [Introduction to this Course](/Notes/Introduction%20to%20this%20Course)
+1. [Introduction to this Course](/Notes/Introduction%20to%20this%20Course/README.md)
 2. [Introduction to Front End Development](/Notes/)
 3. [Introduction to HTML](/Notes/)
 4. [Intermediate HTML](/Notes/)
