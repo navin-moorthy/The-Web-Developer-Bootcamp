@@ -6,7 +6,7 @@
 
 **Section - Topic**
 
-1. [Introduction to this Course](/Notes/Introduction to this Course)
+1. [Introduction to this Course](/Notes/Introduction%20to%20this%20Course)
 2. Introduction to Front End Development
 3. Introduction to HTML
 4. Intermediate HTML
