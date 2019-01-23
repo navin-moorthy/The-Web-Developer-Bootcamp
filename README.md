@@ -23,7 +23,6 @@
 15. [DOM Manipulation](/Notes/)
 16. [Advanced DOM Manipulation](/Notes/)
 17. [Color Game Project](/Notes/)
-
 16. [Intro to jQuery](/Notes/)
 17. [Advanced jQuery](/Notes/)
 18. [Todo List Projects](/Notes/)
