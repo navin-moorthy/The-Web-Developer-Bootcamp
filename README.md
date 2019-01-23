@@ -47,3 +47,12 @@
 37. [Git and Github](/Notes/)
 38. [Deploying](/Notes/)
 39. [JavaScript: The Tricky Stuff](/Notes/)
+
+## Colt Steele and TA's Work
+
+https://webdev.slides.com/coltsteele
+https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw/videos
+
+### Ian's Channel
+
+https://www.youtube.com/user/13rOzProductions/videos
