@@ -13,6 +13,10 @@
 5. [Introduction to CSS](/Notes/)
 6. [Intermediate CSS](/Notes/)
 7. [Bootstrap](/Notes/)
+8. [Bootstrap 4!](/Notes/)
+9. [Bootstrap 4 Flexbox and Layout](/Notes/)
+
+
 8. [Introduction to JavaScript](/Notes/)
 9. [Javascript Basics: Control Flow](/Notes/)
 10. [Javascript Basics: Functions](/Notes/)
