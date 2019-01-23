@@ -48,7 +48,7 @@
 38. [Deploying](/Notes/)
 39. [JavaScript: The Tricky Stuff](/Notes/)
 
-## Colt Steele and TA's Work
+### Colt Steele's Work
 
 https://webdev.slides.com/coltsteele
 https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw/videos
