@@ -9,6 +9,7 @@
 - `$("h1")` to get the DOM Details
 - With jQuery we no need to loop through all the elements selected
 
+<<<<<<< HEAD
 # Slides
 
 [Intro to jQuery](http://webdev.slides.com/coltsteele/dom-events-33-34-75)
@@ -18,3 +19,6 @@
 [Common jQuery Methods](http://webdev.slides.com/coltsteele/jquery-methods-1-77)
 
 @import "25-intro-to-jquery.pdf"
+=======
+### Refer the slides from Colt Steele's slides.com website
+>>>>>>> parent of 43703e7... Intro to jQuery done completely
