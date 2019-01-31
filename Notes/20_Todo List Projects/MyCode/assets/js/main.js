@@ -1,9 +1,3 @@
-// Shorter Version
-// Add the class with color gray and strikethrough in css and toggle the class here
-$("ul").on("click", "li", function (){
-    $(this).toggleClass("completed");
-})
-
 // Longer Version
 // strike-through specific to do's when clicked by adding css and all the elements here itself
 // ------------------------------------------------------
@@ -26,6 +20,12 @@ $("ul").on("click", "li", function (){
 // })
 // ----------------------------------------------------------
 
+// Shorter Version
+// Add the class with color gray and strikethrough in css and toggle the class here
+$("ul").on("click", "li", function (){
+    $(this).toggleClass("completed");
+});
+
 // Click X to delete todo
 $("ul").on("click", "span", function (event) {
     $(this).parent().fadeOut( 500, function(){
@@ -40,6 +40,10 @@ $("input[type='text']").keypress(function (event) {
         // grab the new todo value
         var todoText = $(this).val();
         $(this).val("");
-        $("ul").append("<li><span>X</span> " + todoText + "</li>");
+        $("ul").append("<li><span><i class='fas fa-trash'></i></span> " + todoText + "</li>");
     }
+});
+
+$(".fa-plus-circle").click(function(){
+    $("input[type='text']").fadeToggle();
 });
