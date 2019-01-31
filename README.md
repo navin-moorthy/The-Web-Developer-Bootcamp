@@ -25,7 +25,7 @@
 17. [Color Game Project](/Notes/17_Color%20Game%20Project) ✔️
 18. [Intro to jQuery](/Notes/18_Intro%20to%20jQuery) ✔️
 19. [Advanced jQuery](/Notes/19_Advanced%20jQuery) ✔️
-20. [Todo List Projects](/Notes/20_Todo%20List%20Projects)
+20. [Todo List Projects](/Notes/20_Todo%20List%20Projects) ✔️
 21. [OPTIONAL Project: Patatap Clone](/Notes/)
 22. [Backend Basics](/Notes/22_Backend%20Basics)
 23. [The Command Line](/Notes/)
