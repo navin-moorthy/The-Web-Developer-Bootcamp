@@ -1,6 +1,6 @@
 // Shorter Version
 // Add the class with color gray and strikethrough in css and toggle the class here
-$("li").click(function (){
+$("ul").on("click", "li", function (){
     $(this).toggleClass("completed");
 })
 
@@ -25,3 +25,21 @@ $("li").click(function (){
 //     }
 // })
 // ----------------------------------------------------------
+
+// Click X to delete todo
+$("ul").on("click", "span", function (event) {
+    $(this).parent().fadeOut( 500, function(){
+        $(this).remove();
+    });
+    event.stopPropagation();
+});
+
+// Add the new todo when enter key is pressed
+$("input[type='text']").keypress(function (event) {
+    if (event.which === 13) {
+        // grab the new todo value
+        var todoText = $(this).val();
+        $(this).val("");
+        $("ul").append("<li><span>X</span> " + todoText + "</li>");
+    }
+});
