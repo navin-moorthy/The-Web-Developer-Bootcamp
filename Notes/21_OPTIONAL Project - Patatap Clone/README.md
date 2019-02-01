@@ -40,3 +40,6 @@
     ```
 - To scale an image up or down using - `.scale();`
 - To copy an image with all the property using - `.push()`
+- Learned howler.js
+- To remove the object - `.remove()`
+- To remove the variable from its array - `.splice()`
