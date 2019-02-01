@@ -7,11 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script type="text/javascript" src="paper-full.js"></script>
-    <script type="text/paperscript" canvas="myCanvas">
-        var myCircle1 = new Path.Circle(new Point(0, 0), 10)
-        var myCircle2 = new Path.Circle(new Point(100, 0), 10)
-        myCircle1.fillColor = "#af009f"
-        myCircle2.fillColor = "#af009f"
+    <script type="text/paperscript" canvas="myCanvas">    
+        for( var x = 0; x < 1000; x+=100 ) {
+            for( var y = 0; y<1000; y+=100) {
+                new Path.Circle(new Point(x, y), 10).fillColor = '#af009f';
+            }
+        }
     </script>
 </head>
 <body>
