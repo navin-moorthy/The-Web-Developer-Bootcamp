@@ -26,7 +26,7 @@
 18. [Intro to jQuery](/Notes/18_Intro%20to%20jQuery) ✔️
 19. [Advanced jQuery](/Notes/19_Advanced%20jQuery) ✔️
 20. [Todo List Projects](/Notes/20_Todo%20List%20Projects) ✔️
-21. [OPTIONAL Project: Patatap Clone](/Notes/)
+21. [OPTIONAL Project: Patatap Clone](/Notes/21_OPTIONAL%20Project%20-%20Patatap%20Clone)
 22. [Backend Basics](/Notes/22_Backend%20Basics)
 23. [The Command Line](/Notes/)
 24. [Node JS](/Notes/)
