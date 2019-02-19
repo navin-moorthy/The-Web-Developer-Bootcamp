@@ -8,4 +8,4 @@
 - Nodemon needed a `package.json` file to run
 - package.json can be created using `npm init`
 - Error page can be set using `*` in get.
-- 
+- Completed one practise exercise.
