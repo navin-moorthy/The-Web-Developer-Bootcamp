@@ -30,8 +30,8 @@
 22. [Backend Basics](/Notes/22_Backend%20Basics)✔️
 23. [The Command Line](/Notes/)✔️
 24. [Node JS](/Notes/24_Node%20JS)✔️
-25. [Server Side Frameworks](/Notes/)
-26. [Intermediate Express](/Notes/)
+25. [Server Side Frameworks](/Notes/25_Server%20Side%20Frameworks)✔️
+26. [Intermediate Express](/Notes/26_Intermidate%20Express)
 27. [Working With API's](/Notes/)
 28. [YelpCamp: Basics](/Notes/)
 29. [Databases](/Notes/27_Working%20With%20API's)
