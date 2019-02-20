@@ -1,0 +1,11 @@
+<% include partials/header %>
+
+<h1>This page is a dynamic site: <%= natureVar.toUpperCase() %></h1>
+
+<% if ( natureVar.toLowerCase() === "mountain") { %>
+    <p>Yes now are correct I am the Mountain</p>
+<% } else { %>
+    <p>You are not a mountain</p>
+<% } %>
+
+<% include partials/footer %>
