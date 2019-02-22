@@ -34,8 +34,8 @@
 26. [Intermediate Express](/Notes/26_Intermidate%20Express)✔️
 27. [Working With API's](/Notes/27_Working%20With%20API's)✔️
 28. [YelpCamp: Basics](/Notes/28_YelpCamp_Basics)✔️
-29. [Databases](/Notes/)
-30. [YelpCamp: Data Persistence](/Notes/)
+29. [Databases](/Notes/29_Databases)✔️
+30. [YelpCamp: Data Persistence](/Notes/30_YelpCamp:%20Data%20Persistence)✔️
 31. [RESTful Routing](/Notes/)
 32. [Data Associations](/Notes/)
 33. [YelpCamp: Comments](/Notes/)
