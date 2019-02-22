@@ -28,13 +28,13 @@
 20. [Todo List Projects](/Notes/20_Todo%20List%20Projects) ✔️
 21. [OPTIONAL Project: Patatap Clone](/Notes/21_OPTIONAL%20Project%20-%20Patatap%20Clone)✔️
 22. [Backend Basics](/Notes/22_Backend%20Basics)✔️
-23. [The Command Line](/Notes/)✔️
+23. [The Command Line](/Notes/23_The%20Command%20Line)✔️
 24. [Node JS](/Notes/24_Node%20JS)✔️
 25. [Server Side Frameworks](/Notes/25_Server%20Side%20Frameworks)✔️
-26. [Intermediate Express](/Notes/26_Intermidate%20Express)
-27. [Working With API's](/Notes/)
-28. [YelpCamp: Basics](/Notes/)
-29. [Databases](/Notes/27_Working%20With%20API's)
+26. [Intermediate Express](/Notes/26_Intermidate%20Express)✔️
+27. [Working With API's](/Notes/27_Working%20With%20API's)✔️
+28. [YelpCamp: Basics](/Notes/28_YelpCamp_Basics)✔️
+29. [Databases](/Notes/)
 30. [YelpCamp: Data Persistence](/Notes/)
 31. [RESTful Routing](/Notes/)
 32. [Data Associations](/Notes/)
