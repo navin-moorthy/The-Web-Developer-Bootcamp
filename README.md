@@ -36,9 +36,9 @@
 28. [YelpCamp: Basics](/Notes/28_YelpCamp_Basics)✔️
 29. [Databases](/Notes/29_Databases)✔️
 30. [YelpCamp: Data Persistence](/Notes/30_YelpCamp:%20Data%20Persistence)✔️
-31. [RESTful Routing](/Notes/)
-32. [Data Associations](/Notes/)
-33. [YelpCamp: Comments](/Notes/)
+31. [RESTful Routing](/Notes/31_RESTful_Routing)✔️
+32. [Data Associations](/Notes/32_Data%20Associations)✔️
+33. [YelpCamp: Comments](/Notes/33_YelpCamp:%20Comments)✔️
 34. [Authentication](/Notes/)
 35. [YelpCamp: Adding Authentication](/Notes/)
 36. [YelpCamp: Cleaning Up](/Notes/)
