@@ -3,7 +3,6 @@ app                       = express(),
 passport                  = require("passport"),
 mongoose                  = require("mongoose"),
 bodyParser                = require("body-parser"),
-passportLocalMongoose     = require("passport-local-mongoose"),
 passportLocal             = require("passport-local"),
 User                      = require("./models/user"),
 expressSession            = require("express-session");
