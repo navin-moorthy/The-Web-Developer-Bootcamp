@@ -57,3 +57,7 @@
 ### Ian's Channel
 
 [Youtube Channel](https://www.youtube.com/user/13rOzProductions/videos)
+
+### Complete Course Notes
+
+[Got from Udemy(BA)](The%20Web%20Developer%20Bootcamp%20Outline%20%5BBA%5D%20-%202018-05-29.docx)
