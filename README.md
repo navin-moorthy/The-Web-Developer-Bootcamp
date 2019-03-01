@@ -39,11 +39,11 @@
 31. [RESTful Routing](/Notes/31_RESTful_Routing)✔️
 32. [Data Associations](/Notes/32_Data%20Associations)✔️
 33. [YelpCamp: Comments](/Notes/33_YelpCamp:%20Comments)✔️
-34. [Authentication](/Notes/34_Authentication)
-35. [YelpCamp: Adding Authentication](/Notes/35_YelpCamp:%20Adding%20Authentication)
-36. [YelpCamp: Cleaning Up](/Notes/36_YelpCamp:%20Cleaning%20Up)
-37. [YelpCamp: Update and Destroy](/Notes/37_YelpCamp:%20Update%20and%20Destroy)
-38. [YelpCamp: UI Improvements](/Notes/)
+34. [Authentication](/Notes/34_Authentication)✔️
+35. [YelpCamp: Adding Authentication](/Notes/35_YelpCamp:%20Adding%20Authentication)✔️
+36. [YelpCamp: Cleaning Up](/Notes/36_YelpCamp:%20Cleaning%20Up)✔️
+37. [YelpCamp: Update and Destroy](/Notes/37_YelpCamp:%20Update%20and%20Destroy)✔️
+38. [YelpCamp: UI Improvements](/Notes/)✔️
 39. [Git and Github](/Notes/)
 40. [Deploying](/Notes/)
 41. [JavaScript: The Tricky Stuff](/Notes/)
