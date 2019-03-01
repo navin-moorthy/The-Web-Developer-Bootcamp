@@ -50,7 +50,8 @@
 
 ### Colt Steele's Work
 
-[Slide](https://webdev.slides.com/coltsteele)
+[Colt's Slides](https://webdev.slides.com/coltsteele)
+[Ian's Slides](https://webdev.slides.com/nax3t)
 [Youtube Channel](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw/videos)
 
 ### Ian's Channel
