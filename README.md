@@ -44,14 +44,15 @@
 36. [YelpCamp: Cleaning Up](/Notes/36_YelpCamp:%20Cleaning%20Up)✔️
 37. [YelpCamp: Update and Destroy](/Notes/37_YelpCamp:%20Update%20and%20Destroy)✔️
 38. [YelpCamp: UI Improvements](/Notes/)✔️
-39. [Git and Github](/Notes/)
-40. [Deploying](/Notes/)
-41. [JavaScript: The Tricky Stuff](/Notes/)
+39. [Git and Github](/Notes/)✔️
+40. [Deploying](/Notes/)✔️
+41. [JavaScript: The Tricky Stuff](/Notes/)✔️
 
 ### Colt Steele's Work
 
 [Colt's Slides](https://webdev.slides.com/coltsteele)
 [Ian's Slides](https://webdev.slides.com/nax3t)
+[Elie's Slides](https://webdev.slides.com/eschoppik)
 [Youtube Channel](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw/videos)
 
 ### Ian's Channel
